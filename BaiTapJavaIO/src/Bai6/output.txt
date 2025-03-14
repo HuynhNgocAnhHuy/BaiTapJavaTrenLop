@@ -1,0 +1,6 @@
+--- Nội dung từ file: D:\baitapjava\baitapjavaIOstream\src\bai6\input1.txt\ ---
+
+--- Nội dung từ file: D:\baitapjava\baitapjavaIOstream\src\bai6\input3.txt\ ---
+
+--- Nội dung từ file: D:\baitapjava\baitapjavaIOstream\src\bai6\input2.txt\ ---
+
