@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item>
+        <id>1</id>
+        <name>Sản phẩm A</name>
+    </item>
+    <item>
+        <id>2</id>
+        <name>Sản phẩm B</name>
+    </item>
+</items>
